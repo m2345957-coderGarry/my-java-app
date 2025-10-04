@@ -1,0 +1,6 @@
+version: "3.8"
+services:
+  java-hello:
+    build: .
+    container_name: java-hello-container
+
